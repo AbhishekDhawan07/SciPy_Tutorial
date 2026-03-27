@@ -1,4 +1,4 @@
-# 🚀 SciPy Tutorial Repository
+# 🚀 SciPy Tutorial
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-username/SciPy_Tutorial?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/SciPy_Tutorial?style=for-the-badge)
