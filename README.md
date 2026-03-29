@@ -32,28 +32,58 @@ It covers everything from **basic concepts to advanced mathematical operations**
 # 📁 Repository Structure
 
 📦 **SciPy_Tutorial**
- ┣ 📂 SciPy Tutorial  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 01.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 02.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 03.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 04.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 05.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 06.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 07.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 08.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 09.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 10.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 11.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 12.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 13.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 14.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 15.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 16.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 17.ipynb  
- ┃ ┣ 📄 SciPy Basics Tutorial - Part - 18.ipynb  
- ┃ ┗ 📄 SciPy Basics Tutorial - Part - 19.ipynb  
 
----
+
+ ## 📁 Project Structure
+
+```
+├──📄 README.md
+📂 SciPy Tutorial/
+├── SciPy Basics Tutorial - Part - 01.ipynb
+├── SciPy Basics Tutorial - Part - 02.ipynb
+├── SciPy Basics Tutorial - Part - 03.ipynb
+├── SciPy Basics Tutorial - Part - 04.ipynb
+├── SciPy Basics Tutorial - Part - 05.ipynb
+├── SciPy Basics Tutorial - Part - 06.ipynb
+├── SciPy Basics Tutorial - Part - 07.ipynb
+├── SciPy Basics Tutorial - Part - 08.ipynb
+├── SciPy Basics Tutorial - Part - 09.ipynb
+├── SciPy Basics Tutorial - Part - 10.ipynb
+├── SciPy Basics Tutorial - Part - 11.ipynb
+├── SciPy Basics Tutorial - Part - 12.ipynb
+├── SciPy Basics Tutorial - Part - 13.ipynb
+├── SciPy Basics Tutorial - Part - 14.ipynb
+├── SciPy Basics Tutorial - Part - 15.ipynb
+├── SciPy Basics Tutorial - Part - 16.ipynb
+├── SciPy Basics Tutorial - Part - 17.ipynb
+├── SciPy Basics Tutorial - Part - 18.ipynb
+└── SciPy Basics Tutorial - Part - 19.ipynb
+```
+
+```
+SciPy Tutorial/
+├── README.md
+├── SciPy Basics Tutorial - Part - 01.ipynb
+├── SciPy Basics Tutorial - Part - 02.ipynb
+├── SciPy Basics Tutorial - Part - 03.ipynb
+├── SciPy Basics Tutorial - Part - 04.ipynb
+├── SciPy Basics Tutorial - Part - 05.ipynb
+├── SciPy Basics Tutorial - Part - 06.ipynb
+├── SciPy Basics Tutorial - Part - 07.ipynb
+├── SciPy Basics Tutorial - Part - 08.ipynb
+├── SciPy Basics Tutorial - Part - 09.ipynb
+├── SciPy Basics Tutorial - Part - 10.ipynb
+├── SciPy Basics Tutorial - Part - 11.ipynb
+├── SciPy Basics Tutorial - Part - 12.ipynb
+├── SciPy Basics Tutorial - Part - 13.ipynb
+├── SciPy Basics Tutorial - Part - 14.ipynb
+├── SciPy Basics Tutorial - Part - 15.ipynb
+├── SciPy Basics Tutorial - Part - 16.ipynb
+├── SciPy Basics Tutorial - Part - 17.ipynb
+├── SciPy Basics Tutorial - Part - 18.ipynb
+└── SciPy Basics Tutorial - Part - 19.ipynb
+```
+
 
 # 📚 Tutorial Breakdown
 
